@@ -1,0 +1,27 @@
+# Секретные переменные окружения (пароли, API-ключи)
+.env
+.env.local
+.env.*.local
+
+# База данных
+
+
+# Питон
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+
+# Служебные файлы ОС и IDE
+.DS_Store
+.vscode/
+.idea/
+node_modules/
+
+# Логи
+*.log
