@@ -1,0 +1,108 @@
+2026-01-24 12:56:13,622 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 12:56:30,822 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 12:56:55,342 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 12:58:21,315 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 13:03:51,458 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 13:04:24,038 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 13:04:25,826 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 13:04:55,297 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 13:05:38,814 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 13:05:42,269 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 13:07:50,372 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 13:07:51,801 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 13:08:56,982 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 13:11:19,976 - ERROR - Ошибка при подключении: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-01-24 13:18:45,580 - ERROR - Ошибка при подключении: invalid dsn: invalid connection option "encoding"
+
+2026-01-24 13:20:11,894 - ERROR - Ошибка при подключении: invalid dsn: invalid connection option "encoding"
+
+2026-01-24 13:20:13,338 - ERROR - Ошибка при подключении: invalid dsn: invalid connection option "encoding"
+
+2026-01-24 13:21:50,232 - INFO - Успешное подключение к PostgreSQL
+2026-01-24 13:22:41,869 - INFO - Успешное подключение к PostgreSQL
+2026-01-24 13:23:19,852 - INFO - Успешное подключение к PostgreSQL
+2026-01-25 10:09:53,448 - INFO - Успешное подключение к PostgreSQL
+2026-01-25 10:12:33,545 - INFO - Успешное подключение к PostgreSQL
+2026-01-25 10:12:35,936 - INFO - Успешное подключение к PostgreSQL
+2026-01-25 10:30:02,962 - INFO - Успешное подключение к PostgreSQL
+2026-01-25 10:33:41,176 - INFO - Успешное подключение к PostgreSQL
+2026-01-25 10:36:07,967 - INFO - Успешное подключение к PostgreSQL
+2026-01-25 10:39:38,435 - INFO - Успешное подключение к PostgreSQL
+2026-01-25 10:40:33,587 - INFO - Успешное подключение к PostgreSQL
+2026-01-25 10:43:42,831 - INFO - Успешное подключение к PostgreSQL
+2026-01-25 10:51:50,942 - INFO - Успешное подключение к PostgreSQL
+2026-01-25 10:52:55,150 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 21:47:20,977 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 21:51:41,311 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 21:53:41,971 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 21:55:00,587 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 21:57:09,245 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 21:58:25,206 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:00:08,043 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:00:12,841 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:02:20,999 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:06:15,474 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:07:42,011 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:07:42,014 - ERROR - Ошибка при подключении: ОШИБКА:  нет доступа к схеме public
+LINE 2:                 CREATE TABLE IF NOT EXISTS income (
+                                                   ^
+
+2026-01-28 22:09:53,496 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:09:53,499 - ERROR - Ошибка при подключении: ОШИБКА:  нет доступа к схеме public
+LINE 2:                 CREATE TABLE IF NOT EXISTS income (
+                                                   ^
+
+2026-01-28 22:16:32,990 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:16:32,993 - ERROR - Ошибка при подключении: ОШИБКА:  нет доступа к схеме public
+LINE 2:                 CREATE TABLE IF NOT EXISTS income (
+                                                   ^
+
+2026-01-28 22:16:59,048 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:16:59,052 - ERROR - Ошибка при подключении: ОШИБКА:  нет доступа к схеме public
+LINE 2:                 CREATE TABLE IF NOT EXISTS income (
+                                                   ^
+
+2026-01-28 22:17:01,628 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:17:01,631 - ERROR - Ошибка при подключении: ОШИБКА:  нет доступа к схеме public
+LINE 2:                 CREATE TABLE IF NOT EXISTS income (
+                                                   ^
+
+2026-01-28 22:18:31,840 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:18:31,843 - ERROR - Ошибка при подключении: ОШИБКА:  нет доступа к схеме public
+LINE 2:                 CREATE TABLE IF NOT EXISTS income (
+                                                   ^
+
+2026-01-28 22:18:47,380 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:18:47,383 - ERROR - Ошибка при подключении: ОШИБКА:  нет доступа к схеме public
+LINE 2:                 CREATE TABLE IF NOT EXISTS income (
+                                                   ^
+
+2026-01-28 22:18:56,437 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:18:56,440 - ERROR - Ошибка при подключении: ОШИБКА:  нет доступа к схеме public
+LINE 2:                 CREATE TABLE IF NOT EXISTS income (
+                                                   ^
+
+2026-01-28 22:30:12,400 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:32:15,320 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:35:04,186 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:35:53,443 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:37:21,240 - INFO - Успешное подключение к PostgreSQL
+2026-01-28 22:38:51,364 - INFO - Успешное подключение к PostgreSQL
+2026-01-31 09:27:21,108 - INFO - Успешное подключение к PostgreSQL
+2026-03-02 09:04:39,474 - INFO - Успешное подключение к PostgreSQL
+2026-04-04 12:12:10,039 - INFO - Успешное подключение к PostgreSQL
+2026-04-04 12:14:12,371 - INFO - Успешное подключение к PostgreSQL
